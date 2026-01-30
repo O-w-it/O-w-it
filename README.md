@@ -1,9 +1,9 @@
 <div align="center">
 
 <!-- Profile Image + Wave -->
-<img src="https://raw.githubusercontent.com/USERNAME/REPO/main/profile-pic.png"
+<img src="https://raw.githubusercontent.com/O-w-it/O-w-it/main/profile-pic.png"
      width="140"
-     style="border-radius: 50%; box-shadow: 0 0 20px rgba(0,0,0,0.4);" />
+     style="border-radius: 50%; box-shadow: 0 0 20px rgba(0,0,0,0.45);" />
 
 &nbsp;&nbsp;
 
@@ -34,7 +34,7 @@ and clean user interfaces with strong visual identity.
 
 <br><br>
 
-<img src="https://komarev.com/ghpvc/?username=OmarAbdelFattah&style=flat&color=orange&label=PROFILE+VIEWS"/>
+<img src="https://komarev.com/ghpvc/?username=O-w-it&style=flat&color=orange&label=PROFILE+VIEWS"/>
 
 </div>
 
