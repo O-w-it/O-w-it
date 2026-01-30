@@ -1,16 +1,12 @@
 <div align="center">
 
 <!-- Profile Image + Wave -->
-<img src="https://raw.githubusercontent.com/O-w-it/O-w-it/main/profile-pic.png"
+<img src="https://raw.githubusercontent.com/O-w-it/O-w-it/main/omar.png"
      width="140"
      style="border-radius: 50%; box-shadow: 0 0 20px rgba(0,0,0,0.45);" />
+![Uploading omar.png…]()
 
 &nbsp;&nbsp;
-
-<img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Hand%20gestures/Waving%20Hand.png"
-     width="90" />
-
-<br><br>
 
 <h1>Hi, I'm Omar AbdelFattah 👨‍💻</h1>
 
@@ -34,7 +30,6 @@ and clean user interfaces with strong visual identity.
 
 <br><br>
 
-<img src="https://komarev.com/ghpvc/?username=O-w-it&style=flat&color=orange&label=PROFILE+VIEWS"/>
 
 </div>
 
