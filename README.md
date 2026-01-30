@@ -1,15 +1,27 @@
 <div align="center">
 
-<!-- <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Hand%20gestures/Waving%20Hand.png" width="90" /> -->
+<!-- Profile Image + Wave -->
+<img src="https://raw.githubusercontent.com/USERNAME/REPO/main/profile-pic.png"
+     width="140"
+     style="border-radius: 50%; box-shadow: 0 0 20px rgba(0,0,0,0.4);" />
+
+&nbsp;&nbsp;
+
+<img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Hand%20gestures/Waving%20Hand.png"
+     width="90" />
+
+<br><br>
 
 <h1>Hi, I'm Omar AbdelFattah 👨‍💻</h1>
+
 <h3>Flutter Developer • Web Designer • UI/UX & Logo Designer</h3>
 
 <p>
-I craft high-quality mobile apps, modern websites  
+I craft high-quality mobile apps, modern websites <br>
 and clean user interfaces with strong visual identity.
 </p>
 
+<!-- Social Links -->
 <a href="https://www.instagram.com/wii._.t">
   <img src="https://img.shields.io/badge/Instagram-E4405F?style=flat&logo=instagram&logoColor=white"/>
 </a>
@@ -22,9 +34,10 @@ and clean user interfaces with strong visual identity.
 
 <br><br>
 
-<!-- <img src="https://komarev.com/ghpvc/?username=OmarAbdelFattah&style=flat&color=orange&label=PROFILE+VIEWS"/> -->
+<img src="https://komarev.com/ghpvc/?username=OmarAbdelFattah&style=flat&color=orange&label=PROFILE+VIEWS"/>
 
 </div>
+
 
 ---
 
