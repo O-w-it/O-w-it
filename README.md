@@ -1,10 +1,10 @@
 <div align="center">
 
 <!-- Profile Image + Wave -->
-<img src="https://raw.githubusercontent.com/O-w-it/O-w-it/main/omar.png"
+<!-- <img src="https://raw.githubusercontent.com/O-w-it/O-w-it/main/omar.png"
      width="140"
      style="border-radius: 50%; box-shadow: 0 0 20px rgba(0,0,0,0.45);" />
-![Uploading omar.png…]()
+ -->
 
 &nbsp;&nbsp;
 
