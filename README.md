@@ -9,7 +9,7 @@
 
 &nbsp;&nbsp;
 
-<h1>Hi, I'm Omar AbdelFattah 💻</h1>
+<h1>Hi, I'm Omar AbdelFattah 👤💻</h1>
 
 <h3>Flutter Developer • Web Designer • UI/UX & Logo Designer</h3>
 
