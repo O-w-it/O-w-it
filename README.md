@@ -1,14 +1,15 @@
 <div align="center">
 
 <!-- Profile Image + Wave -->
-<!-- <img src="https://raw.githubusercontent.com/O-w-it/O-w-it/main/omar.png"
+<!-- <img src="omar.png"
      width="140"
      style="border-radius: 50%; box-shadow: 0 0 20px rgba(0,0,0,0.45);" />
  -->
+ 
 
 &nbsp;&nbsp;
 
-<h1>Hi, I'm Omar AbdelFattah 👨‍💻</h1>
+<h1>Hi, I'm Omar AbdelFattah 💻</h1>
 
 <h3>Flutter Developer • Web Designer • UI/UX & Logo Designer</h3>
 
