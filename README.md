@@ -99,8 +99,11 @@ Full e-commerce system built with **Agile Scrum**, with AI integrated into the s
 
 ## Experience
 
-**IT Field Training** · National Company for Sponge and Plastic Industry (Hayel Saeed Anam Group) · May 2026 · 91 hours<br>
-**IT Field Training** · SDN for Security Systems & Computers · Al-Rifai Hospital project
+**IT Field Training** · SDN for Security Systems & Computers · Mar 2026 – Jun 2026 · 140+ hours<br>
+Full network and surveillance deployment of Al-Rifai Hospital from scratch: switches, routers, 40+ IP cameras, structured cabling, and office connectivity.<br><br>
+**IT Field Training** · National Company for Sponge and Plastic Industry (Hayel Saeed Anam Group) · Mar 2026 – Jun 2026 · 40+ hours<br>
+Installed network switches, access points, and surveillance cameras in an enterprise environment.<br><br>
+<sub>180+ practical training hours in total, twice the 90 hours required by the university.</sub>
 
 ---
 
