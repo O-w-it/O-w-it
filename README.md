@@ -1,106 +1,109 @@
 <div align="center">
 
-<!-- Profile Image + Wave -->
-<!-- <img src="omar.png"
-     width="140"
-     style="border-radius: 50%; box-shadow: 0 0 20px rgba(0,0,0,0.45);" />
- -->
- 
+<h1>Omar Abdulfattah Qasem</h1>
 
-&nbsp;&nbsp;
-
-<h1>Hi, I'm Omar AbdelFattah 👤💻</h1>
-
-<h3>Flutter Developer • Web Designer • UI/UX & Logo Designer</h3>
+<h3>AI Engineer · Agentic AI & Multi-Agent Systems · Full-Stack Developer (Laravel · Flutter)</h3>
 
 <p>
-I craft high-quality mobile apps, modern websites <br>
-and clean user interfaces with strong visual identity.
+Information Technology student at the University of Science and Technology, Yemen<br>
+<b>Ranked 1st in Year 3 (98.58%)</b> · <b>Cumulative GPA 98.09%</b>
 </p>
 
-<!-- Social Links -->
-<a href="https://www.instagram.com/wii._.t">
-  <img src="https://img.shields.io/badge/Instagram-E4405F?style=flat&logo=instagram&logoColor=white"/>
-</a>
-<a href="https://www.threads.com/@wii._.t">
-  <img src="https://img.shields.io/badge/Threads-000000?style=flat&logo=threads&logoColor=white"/>
-</a>
-<a href="https://www.facebook.com/share/181iYK1vhW/">
-  <img src="https://img.shields.io/badge/Facebook-1877F2?style=flat&logo=facebook&logoColor=white"/>
-</a>
-
-<br><br>
-
+<a href="mailto:omar.abdu20187@gmail.com"><img src="https://img.shields.io/badge/Email-D14836?style=flat&logo=gmail&logoColor=white"/></a>
+<a href="https://www.linkedin.com/in/omar-abdulfattah-qasem"><img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=flat&logo=linkedin&logoColor=white"/></a>
+<a href="https://www.kaggle.com/omar2716"><img src="https://img.shields.io/badge/Kaggle-20BEFF?style=flat&logo=kaggle&logoColor=white"/></a>
+<a href="https://huggingface.co/2716omar"><img src="https://img.shields.io/badge/Hugging_Face-FFD21E?style=flat&logo=huggingface&logoColor=black"/></a>
+<a href="http://omarabdu.tech/"><img src="https://img.shields.io/badge/Website-000000?style=flat&logo=googlechrome&logoColor=white"/></a>
 
 </div>
 
+---
+
+## About Me
+
+I build AI systems that connect large language models to real data and real workflows.
+My work focuses on **AI agents**, **multi-agent orchestration**, **RAG over live databases**, and **machine learning for healthcare and e-commerce**.
+
+- Building Gemini-powered agents in **Python** and **n8n**: customer service, smart report generation, and image analysis
+- Connecting LLMs to live **MySQL** databases through RAG pipelines
+- Publishing datasets and notebooks on **Kaggle** (38 badges, Kaggle Python certificate)
+- Current research interest: **Agentic multi-agent clinical decision support systems**
 
 ---
 
-## 🚀 About Me
+## Featured Work
 
-- 💙 Flutter Developer (Dart)
-- 🌐 Web Designer (HTML, CSS, JS, PHP)
-- 🐍 Python Developer
-- 🎨 UI/UX & Logo Designer
-- 🧠 Passionate about clean code & great user experience
+### Heart Disease Prediction: Fixing Data Leakage
+Found that a popular 1,025-row heart disease dataset contains **723 duplicate records**, which inflates accuracy to 100% with a random split.
+Rebuilt an honest baseline on **302 unique patients** with 10x repeated stratified 5-fold cross-validation:
+**85.3% accuracy · 0.917 ROC-AUC** (Logistic Regression), with permutation-importance explainability.
+`Python` `Scikit-learn` `Pandas` · [Kaggle Notebook](https://www.kaggle.com/code/omar2716/heart-disease-prediction-fixing-data-leakage)
 
----
+### Nice Abayas Store: AI-Powered E-Commerce Platform (Graduation Project)
+Full e-commerce system built with **Agile Scrum**, with AI integrated into the shopping experience:
+- **Almar**: an intelligent customer-service agent (Gemini) connected to the live MySQL database
+- **Visual product tagging**: Google Cloud Vision API inside asynchronous Laravel jobs to extract dominant colors and tags
+- **Virtual try-on**: IDM-VTON and CatVTON pipelines deployed on Hugging Face Spaces and integrated into the Flutter app through the Gradio API
 
-## 🎨 UI/UX & Graphic Design
+`Laravel` `Flutter` `MySQL` `Python` `Gemini` `Google Cloud Vision` `Hugging Face`
 
-- 🎯 **Logo Design & Brand Identity**
-- 📱 Mobile App UI (Flutter First)
-- 🌐 Web Interfaces & Design Systems
-- 🧩 User-Centered UX Thinking
+### AI Agents & Workflow Automation
+- **Smart report agent**: generates structured business reports automatically (20+ reports produced)
+- **Image analysis agent**: analyzes and describes images with Gemini (3–6 s response time)
+- **Telegram store-management bot**: n8n workflows with webhooks, inline keyboards, and finite state machines for inventory management
 
-### Design Tools
-![Adobe XD](https://img.shields.io/badge/Adobe_XD-FF61F6?style=flat&logo=adobe-xd&logoColor=white)
-![Illustrator](https://img.shields.io/badge/Illustrator-FF9A00?style=flat&logo=adobeillustrator&logoColor=black)
-![Photoshop](https://img.shields.io/badge/Photoshop-31A8FF?style=flat&logo=adobephotoshop&logoColor=black)
-![Figma](https://img.shields.io/badge/Figma-F24E1E?style=flat&logo=figma&logoColor=white)
-
-> *Design is intelligence made visible.*
+`n8n` `Gemini` `Python` `Telegram Bot API` `Webhooks` `Docker`
 
 ---
 
-## 🧰 Tech Stack
+## Tech Stack
 
-### 👨‍💻 Programming
+**AI & Machine Learning**<br>
+![Python](https://img.shields.io/badge/Python-3776AB?style=flat&logo=python&logoColor=white)
+![scikit-learn](https://img.shields.io/badge/scikit--learn-F7931E?style=flat&logo=scikitlearn&logoColor=white)
+![Pandas](https://img.shields.io/badge/Pandas-150458?style=flat&logo=pandas&logoColor=white)
+![NumPy](https://img.shields.io/badge/NumPy-013243?style=flat&logo=numpy&logoColor=white)
+![OpenCV](https://img.shields.io/badge/OpenCV-5C3EE8?style=flat&logo=opencv&logoColor=white)
+![spaCy](https://img.shields.io/badge/spaCy-09A3D5?style=flat&logo=spacy&logoColor=white)
+![Gemini](https://img.shields.io/badge/Google_Gemini-8E75B2?style=flat&logo=googlegemini&logoColor=white)
+![Hugging Face](https://img.shields.io/badge/Hugging_Face-FFD21E?style=flat&logo=huggingface&logoColor=black)
+
+**Agents & Automation**<br>
+![n8n](https://img.shields.io/badge/n8n-EA4B71?style=flat&logo=n8n&logoColor=white)
+![Telegram](https://img.shields.io/badge/Telegram_Bots-26A5E4?style=flat&logo=telegram&logoColor=white)
+![Google Cloud](https://img.shields.io/badge/Google_Cloud_Vision-4285F4?style=flat&logo=googlecloud&logoColor=white)
+
+**Backend & Databases**<br>
+![Laravel](https://img.shields.io/badge/Laravel-FF2D20?style=flat&logo=laravel&logoColor=white)
+![PHP](https://img.shields.io/badge/PHP-777BB4?style=flat&logo=php&logoColor=white)
+![MySQL](https://img.shields.io/badge/MySQL-4479A1?style=flat&logo=mysql&logoColor=white)
+![Supabase](https://img.shields.io/badge/Supabase-3FCF8E?style=flat&logo=supabase&logoColor=white)
+![Docker](https://img.shields.io/badge/Docker-2496ED?style=flat&logo=docker&logoColor=white)
+
+**Mobile**<br>
 ![Flutter](https://img.shields.io/badge/Flutter-02569B?style=flat&logo=flutter&logoColor=white)
 ![Dart](https://img.shields.io/badge/Dart-0175C2?style=flat&logo=dart&logoColor=white)
-![Python](https://img.shields.io/badge/Python-FFD43B?style=flat&logo=python&logoColor=black)
-![JavaScript](https://img.shields.io/badge/JavaScript-323330?style=flat&logo=javascript&logoColor=F7DF1E)
-![C%23](https://img.shields.io/badge/C%23-239120?style=flat&logo=c-sharp&logoColor=white)
-![PHP](https://img.shields.io/badge/PHP-777BB4?style=flat&logo=php&logoColor=white)
 
-### 🌐 Web
-![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=flat&logo=html5&logoColor=white)
-![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=flat&logo=css3&logoColor=white)
+**IoT**<br>
+![ESP32](https://img.shields.io/badge/ESP32-E7352C?style=flat&logo=espressif&logoColor=white)
+![Arduino](https://img.shields.io/badge/Arduino-00878F?style=flat&logo=arduino&logoColor=white)
+![MQTT](https://img.shields.io/badge/MQTT-660066?style=flat&logo=mqtt&logoColor=white)
 
-### 🗄 Backend & Database
-![Firebase](https://img.shields.io/badge/Firebase-ffca28?style=flat&logo=firebase&logoColor=black)
-![SQLite](https://img.shields.io/badge/SQLite-07405E?style=flat&logo=sqlite&logoColor=white)
-
-### ⚙ Tools
-![Git](https://img.shields.io/badge/Git-E44C30?style=flat&logo=git&logoColor=white)
-![VSCode](https://img.shields.io/badge/VS_Code-0078D4?style=flat&logo=visual-studio-code&logoColor=white)
+**Tools**<br>
+![Git](https://img.shields.io/badge/Git-F05032?style=flat&logo=git&logoColor=white)
+![VS Code](https://img.shields.io/badge/VS_Code-007ACC?style=flat&logo=visualstudiocode&logoColor=white)
+![Google Colab](https://img.shields.io/badge/Colab-F9AB00?style=flat&logo=googlecolab&logoColor=white)
+![Jupyter](https://img.shields.io/badge/Jupyter-F37626?style=flat&logo=jupyter&logoColor=white)
 
 ---
 
-## 🧠 Code Style (Just for Fun 😄)
+## Experience
 
-```dart
-class Omar extends Developer {
-  final skills = {
-    "Mobile": ["Flutter", "Dart"],
-    "Web": ["HTML", "CSS", "JavaScript", "PHP"],
-    "Backend": ["Python", "Firebase"],
-    "UI/UX": ["Figma", "Adobe XD"],
-    "Graphic Design": ["Illustrator", "Photoshop", "Logo Design"]
-  };
+**IT Field Training** · National Company for Sponge and Plastic Industry (Hayel Saeed Anam Group) · May 2026 · 91 hours<br>
+**IT Field Training** · SDN for Security Systems & Computers · Al-Rifai Hospital project
 
-  void buildAwesomeThings() {
-    print("Clean Code • Strong Branding • Smooth UX 🚀");
-  }
-}
+---
+
+<div align="center">
+<i>Open to AI research internships and collaborations in agentic AI, multi-agent systems, and healthcare AI.</i>
+</div>
